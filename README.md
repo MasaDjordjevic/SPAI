@@ -1,37 +1,41 @@
 # Prvi čas
 
-Kako se razvijalo društvo? Tri faze: privreda, industrijsko i post-industrijsko (informatičko ili digitalno) društvo. Poljoprivreda je trajala isuviše dugo, od 4. veka p.n.e. do 17. veka p.n.e. i u tom periodu su zabeležene razne pojave koje su uticale na društvo. Najveći doprinos dale su prizvodene snage (usavršavane radne snage i tehnike) i proizvodi (kako su se te snage tretirale).
+Kako se razvijalo društvo? Tri faze: _privreda_, _industrijsko_ i _post-industrijsko_ (informatičko ili digitalno) društvo. **Privreda** je trajala isuviše dugo, od 4. veka p.n.e. do 17. veka p.n.e. i u tom periodu su zabeležene razne pojave koje su uticale na društvo. Najveći doprinos dale su proizvodene snage (usavršavane radne snage i tehnike) i proizvodi (kako su se te snage tretirale).
 
-Od 17. veka govorimo o dinamičkim društvima. Prvo, industrijsko od 17. do 1950. godine. Drugo, postepeno zahvaljujući razvoju mikroeleketronike (čipova), post-industrijsko društvo. Brzo se razviaju. Pored razvoja mikroeleketronike, dale su i informaciono-komunikacione tehnologije koje su omogućile prenošenje inforamcija na velike daljine.
+Od 17. veka govorimo o **dinamičkim društvima**. Prvo, _industrijsko_ od 17. do 1950. godine. Drugo, postepeno zahvaljujući razvoju mikroeleketronike (čipova), _post-industrijsko_ društvo. Brzo se razviaju. Pored razvoja mikroeleketronike, dale su i informaciono-komunikacione tehnologije koje su omogućile prenošenje inforamcija na velike daljine.
 
 **Harold Inis** i **Maršal Mekluan** su prvi videli vrednost informaciono-komunikacionih tehnologija. Ranije su se informacije prenosile licem u lice, direktan kontakt, a sada je komunikacija koja se odvija svuda na velikim daljinama i koja je pomogla razvoju društva. Karl je prvi video prednosti za razvoj društva, ukazivao na njih i ubacivao ih u nove tehnologije.
 
-Razvoj medija, novih medija, dok su tradicionalne medije ograničene jer su jednosmerne, novi su prisutni svuda i svugde i velika prednost jer su **dvosmerne**. Jedan izvor a jedan dva ili više recipijenata. Ali sada imamo povratnu vezu. Postoje razne prednosti, ali se javljaju i **problemi**: hakerisanje, spamovanje, dečija pornografija. Ova dvojica su podelili razvoj tog društva na tri: usmena, pismena i elektronska.
+Dok su tradicionalni mediji ograničene jer su jednosmerni, novi su prisutni svuda i svugde i velika prednost jer su **dvosmerne** -- jedan izvor a više recipijenata. Postoji i povratna veza. Postoje razne prednosti, ali se javljaju i **problemi**: hakerisanje, spamovanje, dečija pornografija. Harold Inis i Maršal Meklaun su podelili razvoj tog društva na tri društva: usmena, pismena i elektronska.
 
-1. **Usmena** su karakteristična u prvobitnoj ljudskoj zajednici do pojave pisma. Inforamcije su se prenosile sa kolena na koleno, nisu se širile na velikim daljinama. Važni su predanje i običaji. Odigrala je ključnu ulogu u razvoju ljudske civilizacije.
+1. **Usmena** su karakteristična u prvobitnoj ljudskoj zajednici do pojave pisma. Inforamcije su se prenosile _sa kolena na koleno_, nisu se širile na velikim daljinama. Važni su predanje i običaji. Odigrala je ključnu ulogu u razvoju ljudske civilizacije.
 
-2. **Pismena** društva nastaju sa pojavom pisma. Važni su znakovi i zakoni. Iako je u Staroj Grčkoj postojala nekakva pismenost, za Grčko društvo se kaže da je usmeno a rimsko da je pismeno jer su prvi donosili zakone. Posebno važno: pojava štamparske mašine (Gotenberg). Pojava knjige i štampe.
+2. **Pismena** društva nastaju sa _pojavom pisma_. Važni su _znakovi i zakoni_. Iako je u Staroj Grčkoj postojala nekakva pismenost, za grčko društvo se kaže da je usmeno a rimsko da je pismeno jer su prvi donosili zakone. Posebno važno: pojava štamparske mašine (Gotenberg). Pojava _knjige i štampe_.
 > U Rimu su prvi put uspostavljene institucije zasnovane na pismenosti. Najviše se iskazala u razvoju ugovornog prava.
 
-3. Za **elektronsko društvo** je karakteristično za post-industrijski period, odnosno period računara. U pogledu primene komunikacije, elektronska društva se dele na (podelio ih je Rolend Lorimer):
+3. **Elektronsko društvo** je karakteristično za post-industrijski period, odnosno _period računara_. U pogledu primene komunikacije, elektronska društva se dele na (podelio ih je Rolend Lorimer).
 
-  1. elektronska usmena: Radio i telefon. Neverbalna komunikacija (boja glasa i ton). Ograničenje: neophodna tehnika. Radio-veza ne može bez tehnike na velike razdaljine.
+  1. Elektronska **usmena**. _Radio i telefon_. Neverbalna komunikacija (boja glasa i ton). Ograničenje: neophodna tehnika. Radio-veza ne može bez tehnike na velike razdaljine.
 
-  2. elektronska audio-vizuelna: Elektonska audio-vizuelna društva nove generacije. Najvažniji predstavnik je telezivija. Opet ne može da se obavi bez tehničko-tehnoloških mogućnosti.
+  2. Elektronska **audio-vizuelna**. Najvažniji predstavnik je _telezivija_. Opet ne može da se obavi bez tehničko-tehnoloških mogućnosti.
 
-  3. elektronska tekstualno-numerička: najnovija. Pojavljuje se sa pojavom kompjutera, prenosi se na velikoj udaljenosti. Ne vidiš sa kime razgovaraš. U jednom takvom razvoju i razvoju društva stvaraju se novi društveni odnosi, novo informatičko društvo koje pravi svoje jasne karakterstike. Najveći doprinos dao je internet.
+  3. Elektronska **tekstualno-numerička**. Pojavljuje se sa pojavom _kompjutera_, prenosi se na velikoj udaljenosti. Ne vidiš sa kime razgovaraš. U jednom takvom razvoju i razvoju društva stvaraju se novi društveni odnosi, novo informatičko društvo koje pravi svoje jasne karakterstike. Najveći doprinos dao je internet.
 
----
+## Internet
 
-**Internet.** Posle drugog svetskog rata, Amerikanci su ga čuvali do devedesetih i koristila ga za zaštitu vojne doktrine. Plašili su se da će neko da izvrši sabotažu odbrambenog sistema pomoću interneta. Apartnet, prenosili i koristili vojne podatke sedamdesetih počinje legalno da se razvijaju i otvaraju fabrike širom sveta (Amerikanci u Africi, Aziji, itd). Koristili su tri: **jeftinu radnu snagu, jeftine sirovine i novo tržište**. Razmena informacija putem telefona i pisma je postala skupa i spora. Licem u lice: dosta novca, prostora, vremena. Odlučili su kompjuterima omoguće komuniciranje i pustili internet u komercijalne svrhe. Nakon što su videli te velike prednosti, počeli su da se stvaraju problemi. Godine 1996, prva reklama na internetu: advokatski par. Usledilo je istraživanje kako da se to zaustavi.
+Posle drugog svetskog rata, Amerikanci su internet čuvali do devedesetih i koristili ga za zaštitu vojne doktrine. Plašili su se da će neko da izvrši sabotažu odbrambenog sistema pomoću interneta. Koristeći Apartnet, prenosili su i koristili vojne podatke. Sedamdesetih počinje legalno da se razvijaju i otvaraju fabrike širom sveta. Koristili su tri stvari: **jeftinu radnu snagu, jeftine sirovine i novo tržište**.
+
+Razmena informacija putem telefona i pisma je postala skupa i spora. Licem u lice: dosta novca, prostora, vremena. Odlučili su da kompjuterima omoguće komuniciranje i pustili **internet u komercijalne svrhe**. Nakon što su uvideli te velike **prednosti**, počeli su da se stvaraju **problemi**. Godine 1996, _prva reklama na internetu_: advokatski par. Usledilo je istraživanje kako da se to zaustavi.
 
 Ali da bi se doneo zakon, potrebno je vreme. Predlog, potpisi, vlada, parlament, prihvatane, objava, potpis predsednika. Dok su doneli zakon, reklame su preplavile. Kažemo da je internet uticao na veliki razvoj čovečanstva, pojavile su se reči "tranzicija", "globalizacija" i "mondijalizacija".
 
-> Internet omogućuje korisnicima dvosmerni tok komuniciranja. U potpunosti negira prostor kao dimenziju.
+> **Internet** omogućuje korisnicima dvosmerni tok komuniciranja. U potpunosti negira prostor kao dimenziju. Komunikacija se odvija u virtuelnoj realnosti interneta ili **sajber prostoru**.
 >
-> Komunikacija se odvija u virtuelnoj realnosti Interneta ili sajber prostoru. Kontradiktornost: jedni smatraju da internet kao sredstvo komunikacije krije neslućene mogućnosti komunikacije i saznanja., Drugi misle da je internet sredstvo manipulacije i neslobode jer je veoma podesna upotrebi vladajućih struktura u cilju formiranja javnog mnjenja. Hakerisanje predstavlja neovlašćen pristup tuđim računarima povezanim na internet. Namera je da se pretražuju, onesposobe ili u potpunosti unište informacije. Ukoliko dođe do uništenja veb sajta onda se naziva vandalizam u virtuelnom prostoru. Javljaju se pitanja privatnosti, slobode govora, autorskih prava.
+> Jedni smatraju da internet kao sredstvo komunikacije krije neslućene mogućnosti komunikacije i **saznanja**. Drugi misle da je internet sredstvo **manipulacije** i neslobode jer je veoma podesna upotrebi vladajućih struktura u cilju formiranja javnog mnjenja.
 >
-> **Spamovanje** je distribucija sadržaja neprimerenih tematici diskusione grupe od strane ljudi koji nisu u stanju da ratumeju ciljeve rada te grupe.
+> **Hakerisanje** predstavlja neovlašćen pristup tuđim računarima _povezanim na internet_. Namera je da se pretražuju, onesposobe ili u potpunosti unište informacije. Ukoliko dođe do uništenja veb-sajta, onda se to naziva **vandalizam u virtuelnom prostoru**. Javljaju se pitanja privatnosti, slobode govora, autorskih prava.
+>
+> **Spamovanje** je distribucija sadržaja neprimerenih tematici diskusione grupe od strane ljudi koji nisu u stanju da razumeju ciljeve rada te grupe.
 
 ---
 
@@ -41,77 +45,72 @@ Ali da bi se doneo zakon, potrebno je vreme. Predlog, potpisi, vlada, parlament,
 
 Globalizacija utiče na našu struku svuda oko nas, ekonomija, društvo... Postoje dva pogleda na globalizaciju:
 
-1. Globalizaciju možemo razmatrati kao **moderan razvojni proces** koji omogućava razvoj politike, ekonomije, društva u globalnim okvirima. Prema tom opredeljenju, svi bi trebao da imamo koristi: na primer, punjači su sada svi isti.
+1. Globalizaciju možemo razmatrati kao **moderan razvojni proces** koji omogućava razvoj politike, ekonomije, društva u globalnim okvirima. Prema tom opredeljenju, svi bi trebao da imamo **koristi**: na primer, _punjači_ su sada svi isti.
 
-2. Globalizacija je **ideološki mit** koji utiče na razvoj pojedinih segmenata društva, ali koji omogućava da bogati ljudi budu bogatiji. Stvara probleme čitavom čovečanstvu, iskorišćavanje jeftine radne snage, životne sredine.
+2. Globalizacija je **ideološki mit** koji utiče na razvoj pojedinih segmenata društva, ali koji omogućava da _bogati ljudi budu bogatiji_. Stvara probleme čitavom čovečanstvu, **iskorišćavanje** jeftine radne snage, životne sredine. Iza globalizacije se kriju razni _imperijalistički interesi_, namere i ciljevi.
 
-> Globalizacija kao novi ideološki mit iza koga se kriju razni imperijalistički interesi, namere i ciljevi.
+O globalizaciji se može govoriti još od početka: **ratovi**. Kasnije se to proširilo na krstaške ratove, velike teritorije. Ali se može govoriti u pravom smislu **tek krajem 20. veka** i on se vezuje za nove svetske procese: raspad SSSR, raspad Varšavskog ugovora (okupljao je zemlje iz socijalističkog bloka: Poljska, Čehoslovačka...). Vezuje se raspad SFRJ i pobeda neoliberalnih režima u Velikoj Britaniji i Americi, ali najveći značaj je imao internet. Pojava **interneta** je **povezala**, a sa druge strane **razjedinila** čovečanstvo jer se ljudi udaljavju jedni od drugih.
 
-O globalizaciji se može govoriti još od početka, ratovi. Kasnije se to proširilo na krstaške ratove, velike teritorije. Ali se može govoriti u pravom smislu tek krajem 20. veka i on se vezuje za nove svetske procese: raspad SSSR, raspad Varšavskog ugovora (okupljao je zemlje iz socijalističkog bloka: Poljska, Čehoslovačka...). Vezuje se raspad SFRJ i pobeda neoliberalnih režima u Velikoj Britaniji i Americi, ali najveći značaj je imao internet. Pojava interneta je povezala, a sa druge strane razjedinila čovečanstvo jer se ljudi udaljavju jedni od drugih.
+### Četiri shvatanja globalizacije:
 
-Imamo četiri pristupa (shvatanja globalizacije):
+1. **Hiperglobalistički** pristup se povezuje sa prvom teorijom o globalizaciji o normalnom razvojnom procesu koji omogućava da se proizvodi i usluge prošire na čitavo čovečanstvo. Korist od toga: primer punjača za telefone. Pomaže da _koristimo inostrane mogućnosti_, proizvode. Pokretači tog pristupa su velike privatne kompanije.
 
-1. Hiperglobalistički – ovaj pristup pvoezuje se sa prvom teorijom o globalizaciji o normalnom razvojnom procesu koji omogućava da se proizvodi i usluge prošire na čitavo čovečanstvo. Korist od toga: primer punjača za telefone. Pomaže da koristimo inostrane mogučnosti, proizvode. Pokretači tog pristupa su velike privatne kompanije.
+2. **Skeptički** pristup sumnja u dobre namere globalizacije; podudara se sa drugim pogledom na globalizaciju određivanjem globalizacije kao _ideološki mit_.
+> U velikoj priči o slobodnom tržištu, ljudskim pravima i međunarodnoj saradnji krije se dominantan interes velikih sila.
 
-2. Skeptični pristup – sumnja se u dobre namere globalizacije, podudara se sa drugim pogledom na globalizaciju određivanjem globalizacije kao ideološki mit.
+3. **Reformski** pristup omogućava da se na jedan sve reformiše i da se stvore novi proizvodi odnosi i da oni utiču na razvoj globalizacije.
+> Šire posmatra globalizaciju i _zalaže se za proces transformacije_. To podrazumeva obuzdavanje kapitalizma slobodne konkurencije i reorganizaciju ekonomske, vojne, političke i kulturne moći.
 
-> U veloj priči o slobodnom tržištu, ljudskim pravima i međunarodnoj saradnji krije se dominantan interes velikih sila.
+4. Pristup **Noama Čomskog** koji kaže: _ili ćemo se **boriti** protiv zla i nepravde ili ćemo **pristati** na to zlo i nepravdu_.
 
-3. Reformski pristup – omogućava da se na jedan sve reformiše i da se stvore novi proizvodi odnosi i da oni utiču na razvoj globalizacije.
+### Indikatori za merenje globalizacije
 
-> Šire posmatra globalizaciju i zalaže se za proces transformacije. To podrazumeva obuzdavanje kapitalizma slobodne konkurencije i reorganizaciju ekonomske, vojne, političe i kulturne moći.
+1. **Pravno-politički** pokazitelji su učešće u **članstvu** u velikim organizacijama. Najveća svetska organizacija su **Ujedinjene nacije**, formirana 1940. Pripada joj 196 država sveta. Ima svoj parlament, Generalnu skupštinu. Pet država stalnih članica imaju pravo veta: Amerika, Velika Britanija, Francuska, Rusija i Kina. Odluke koje donosi UN zovu se _rezolucije_. Ekvivalentno je sa _zakonima_. Svaka država-članica plaća članarinu na osnovu nacionalnog dobitka. Dve trećine daje Amerika. Evropska unija ili Evroazijski region (osnova je Rusija). EU ima parlament, vladu (EU komisija), evro, bitkoin nema države centralne banke, bazira se na bazi ponude i traženja.
 
-4. Pristup Noama Čomskog koji kaže: ili ćemo se boriti protiv zla i nepravde ili ćemo pristati na to zlo i nepravdu.
-Indikatori za merenje globalizacije:
+2. **Vojni** indikator pokazuje članstvo određene države u _vojnim savezima_, učešće u međunarodnim _mirovnim misijama_, borba protiv _razoružanja_, NATO.
 
-  1. Pravno-politički pokazitelji su učešće u članstvu u velikim organizacijama. Najveća svetska organizacija je Ujedinjene nacije, formirana 1940. Pripada joj 196 država sveta. Ima svoj parlament -- zove se Generalna skupština. Pet država stalnih članica imaju pravo veta: Amerika, Velika Britanija, Francuska, Rusija i Kina. Odluke koje donosi UN zovu se rezolucije. Ekvivalentno je sa zakonima. Svaka država-članica plaća članarinu na osnovu nacionalnog dobitka. Dve trećine daje Amerika. Evropska unija ili Evroazijski region (osnova je Rusija). EU ima parlament, vladu (EU komisija), evro, bitkoin nema države centralne banke, bazira se na bazi ponude i traženja.
+3. **Ekonomski** indikatori se svode na učešće zemlje u svetskim organizacijama; na primer _trgovinska_, za _proizvodnju nafte_, _carinske unije_, inostrane investicije, veličina javnih transfera...
 
-  2. Vojni indikator pokazuje članstvo određene države u vojnim savezima, učešće u međunarodnim mirovnim misijama, borba protiv razoružanja, NATO.
+4. **Migracioni** indikator meri dve stvari: procenat migracije iz jedne zemlje u drugu i procenat koliko će da se zadrži u novoj zemlji.
 
-  3. Ekonomski indikator se svodu na učešće zemlje u svetskim organizacijama na primer trgovinska, za proizvodnju nafte, carinske unije i slično.
-  > Međunarodna trgovina, inostrane investicije, veličina javnih transfera
+5. **Kulturni** indikator odnosi se na broj snimljenih filmova, predstava; koliko televizijskih stanica ima jedna država.
 
-  4. Migracioni indikator meri dve stvari: procenat migracije iz jedne zemlje u drugu i procenat koliko će da se zadrži u novoj zemlji.
+6. Initikator **zaštite životne sredine**. Zaštita životne sredine utiče na merenja zaštite životne sredine u celini. Nije postignut napredak u svetu. Mali se bune jer nisu zagađivači, veliki neće da sve plaćaju.
+> Informacije o tome šta se dešava sa planetom kao jedinstvenim životnim prostorom svih ljudi: ozonske rupe, povećanje prosečne temperature, zagađenost vode.
 
-  5. Kultuni indikator odnosi se na broj snimljenih filmova, predstava; koliko TV-a ima jedna država.
-
-  6. Initikator zaštite životne sredine. Zaštita životne sredine utiče na merenja zaštite životne sredine u celini. Nije postignut napredak u svetu. Mali se bune jer nisu zagađivači, veliki neće da sve plaćaju.
-
-  > Informacije o tome šta se dešava sa plentom kao jedinstvenim životnim prostorom svih ljudi: ozonske rupe, povećanje prosečne temperature, zagađenost vode.
-
-Koje probleme stvara globalizacija:
+### Problemi koje stvara globalizacija
 
 1. Razaranje nacionalne države. Ne možeš da zaštitiš državu od prisustva svetskih trendova.
 
 2. Povećava se jaz između bogatih i siromašnih.
 
-3. Preseljenje proizvodnje iz razvijenih u manje razvijene zemlje.
-
->Preseljavanje proizvodnje u zemlje sa jefinom radnom snagom što izaziva veliku nezaposlenost
+3. Preseljenje proizvodnje iz razvijenih u manje razvijene zemlje. (Preseljavanje proizvodnje u zemlje sa jefinom radnom snagom izaziva veliku nezaposlenost.)
 
 4. Slobodna trgovina koja omogućava da se roba i usluge plaisraju u čitavom svetu.
 
-> 5. Porast milionera koji je nemoguče kontrolisati
+> 5\. Porast milionera koji je nemoguće kontrolisati.
 
 Kažemo da je internet uticao na razvoj globalizacije. Kako? **Sajber-prostor** je prostor između dva kompjutera omeđen internetom. **Sajber-kriminal**, hakerisanje je neovlašćeni pristup tuđem računaru povezanom na internetu. Promena sadržaja, uništavanje; lični, politički, ekonomski interesi.
 
 ## Mondijalizacija
 
-Mondijalizacija je uži pojam od globalizacije/tranzcije (?) i može se razmatrati kao neko novo post-industrijsko društvo, novi proces koji utiče na stvaranje novih karakteristika društva. Danijel Bel je autor tog post-industrijskog društva. Mondijalizacija je stvaranje nekog novog post-industrijskog, novog procesa, stvaranje nečeg što će uticati na razvoj čovečanstva.
+Mondijalizacija je uži pojam od globalizacije/tranzcije (?) i može se razmatrati kao neko **novo post-industrijsko društvo**, novi proces koji utiče na _stvaranje novih karakteristika društva_. **Danijel Bel** je autor tog post-industrijskog društva. Mondijalizacija je stvaranje nekog novog post-industrijskog, novog procesa, stvaranje nečeg što će _uticati na razvoj čovečanstva_.
 
-Mondijalizacija je svetski razvojni tok  povezan sa globalizacijom. Shvata se na više načina:
+Mondijalizacija je svetski razvojni tok povezan sa globalizacijom. Shvata se na više načina:
 
-1. stvaranje novog globalnog društva u smislu postindustrijalizma ili informatičkog društva
+- stvaranje novog globalnog društva u smislu postindustrijalizma ili informatičkog društva;
 
-2. stvaranje nove svetske zajednice u smislu sociokulturne evolucije (borba za svetski mir, ljudska prava, regulacije prirodne sredine)
+- stvaranje nove svetske zajednice u smislu sociokulturne evolucije (borba za svetski mir, ljudska prava, regulacije prirodne sredine);
 
-3. stvaranje jednog svetskog sistema.
+- stvaranje jednog svetskog sistema;
 
-4. novi svetski poredak što podrazumeva ujedinjenje čovečanstva pod procesom globalizacije.
+- novi svetski poredak što podrazumeva ujedinjenje čovečanstva pod procesom globalizacije.
+
+---
 
 # Drugi čas
 
-_U prethodnoj epizodi:_ Karl, Maršal, Rolen Lorenger, Džon Nezbit koji igraju ključnu ulogu u razvoju digitalnih tehnologija. Prvi i drugi su prvi videli značaj informacijonih tehnolgoija za unapređenje društva. Prvi je forsirao komunikacione tehnologije a drugi ej video značaj medija za prenošenje informacija. I ne to samo takozvanih tardicionalnih medija već i tzv. novih. Ključni razvoj: pojava štamparske mašine.
+> **U prethodnoj epizodi...** Karl, Maršal, Rolen Lorenger, Džon Nezbit koji igraju ključnu ulogu u razvoju digitalnih tehnologija. Prvi i drugi su prvi videli značaj informacijonih tehnolgoija za unapređenje društva. Prvi je forsirao komunikacione tehnologije a drugi ej video značaj medija za prenošenje informacija. I ne to samo takozvanih tardicionalnih medija već i tzv. novih. Ključni razvoj: pojava štamparske mašine.
 
 ## Fun facts
 
