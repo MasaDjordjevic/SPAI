@@ -15,11 +15,11 @@ Dok su tradicionalni mediji ograničene jer su jednosmerni, novi su prisutni svu
 
 3. **Elektronsko društvo** je karakteristično za post-industrijski period, odnosno _period računara_. U pogledu primene komunikacije, elektronska društva se dele na (podelio ih je Rolend Lorimer).
 
-  1. Elektronska **usmena**. _Radio i telefon_. Neverbalna komunikacija (boja glasa i ton). Ograničenje: neophodna tehnika. Radio-veza ne može bez tehnike na velike razdaljine.
+  - Elektronska **usmena**. _Radio i telefon_. Neverbalna komunikacija (boja glasa i ton). Ograničenje: neophodna tehnika. Radio-veza ne može bez tehnike na velike razdaljine.
 
-  2. Elektronska **audio-vizuelna**. Najvažniji predstavnik je _telezivija_. Opet ne može da se obavi bez tehničko-tehnoloških mogućnosti.
+  - Elektronska **audio-vizuelna**. Najvažniji predstavnik je _telezivija_. Opet ne može da se obavi bez tehničko-tehnoloških mogućnosti.
 
-  3. Elektronska **tekstualno-numerička**. Pojavljuje se sa pojavom _kompjutera_, prenosi se na velikoj udaljenosti. Ne vidiš sa kime razgovaraš. U jednom takvom razvoju i razvoju društva stvaraju se novi društveni odnosi, novo informatičko društvo koje pravi svoje jasne karakterstike. Najveći doprinos dao je internet.
+  - Elektronska **tekstualno-numerička**. Pojavljuje se sa pojavom _kompjutera_, prenosi se na velikoj udaljenosti. Ne vidiš sa kime razgovaraš. U jednom takvom razvoju i razvoju društva stvaraju se novi društveni odnosi, novo informatičko društvo koje pravi svoje jasne karakterstike. Najveći doprinos dao je internet.
 
 ## Internet
 
@@ -53,15 +53,15 @@ O globalizaciji se može govoriti još od početka: **ratovi**. Kasnije se to pr
 
 ### Četiri shvatanja globalizacije:
 
-1. **Hiperglobalistički** pristup se povezuje sa prvom teorijom o globalizaciji o normalnom razvojnom procesu koji omogućava da se proizvodi i usluge prošire na čitavo čovečanstvo. Korist od toga: primer punjača za telefone. Pomaže da _koristimo inostrane mogućnosti_, proizvode. Pokretači tog pristupa su velike privatne kompanije.
+- **Hiperglobalistički** pristup se povezuje sa prvom teorijom o globalizaciji o normalnom razvojnom procesu koji omogućava da se proizvodi i usluge prošire na čitavo čovečanstvo. Korist od toga: primer punjača za telefone. Pomaže da _koristimo inostrane mogućnosti_, proizvode. Pokretači tog pristupa su velike privatne kompanije.
 
-2. **Skeptički** pristup sumnja u dobre namere globalizacije; podudara se sa drugim pogledom na globalizaciju određivanjem globalizacije kao _ideološki mit_.
+- **Skeptički** pristup sumnja u dobre namere globalizacije; podudara se sa drugim pogledom na globalizaciju određivanjem globalizacije kao _ideološki mit_.
 > U velikoj priči o slobodnom tržištu, ljudskim pravima i međunarodnoj saradnji krije se dominantan interes velikih sila.
 
-3. **Reformski** pristup omogućava da se na jedan sve reformiše i da se stvore novi proizvodi odnosi i da oni utiču na razvoj globalizacije.
+- **Reformski** pristup omogućava da se na jedan sve reformiše i da se stvore novi proizvodi odnosi i da oni utiču na razvoj globalizacije.
 > Šire posmatra globalizaciju i _zalaže se za proces transformacije_. To podrazumeva obuzdavanje kapitalizma slobodne konkurencije i reorganizaciju ekonomske, vojne, političke i kulturne moći.
 
-4. Pristup **Noama Čomskog** koji kaže: _ili ćemo se **boriti** protiv zla i nepravde ili ćemo **pristati** na to zlo i nepravdu_.
+- Pristup **Noama Čomskog** koji kaže: _ili ćemo se **boriti** protiv zla i nepravde ili ćemo **pristati** na to zlo i nepravdu_.
 
 ### Indikatori za merenje globalizacije
 
@@ -112,51 +112,59 @@ Mondijalizacija je svetski razvojni tok povezan sa globalizacijom. Shvata se na 
 
 > **U prethodnoj epizodi...** Karl, Maršal, Rolen Lorenger, Džon Nezbit koji igraju ključnu ulogu u razvoju digitalnih tehnologija. Prvi i drugi su prvi videli značaj informacijonih tehnolgoija za unapređenje društva. Prvi je forsirao komunikacione tehnologije a drugi ej video značaj medija za prenošenje informacija. I ne to samo takozvanih tardicionalnih medija već i tzv. novih. Ključni razvoj: pojava štamparske mašine.
 
-## Fun facts
+Da bi država bila država, mora da ima narod, predsednika i granice.
 
-Da bi bila država mora da ima narod, predsednika i granice.
+U **EU** se donose **direktive** ekvivalentno sa _rezolucijama_ odnosno _zakonima_. Evroazijski savez: Rusija, Belorusija, Kazahstan i Kirgistan. EU je trenutno _najorganizovanija organizacija_ u svetu.
 
-U EU se donose direktive ekvivalentno sa rezolucijama odnosno zakonima. Evroazijski savez: Rusija, Belorusija, Kazahstan i Kirgistan. EU ternutno najorganizovanija organizacija u svetu.
+**Devizni kurs** je stvarna količina stranog novca koja može da se dobije u jednoj zemlji za domaću valutu. **Valutni kurs** je broj na osnovu kojeg se jedna valuta preračunava u drugu. I jedno i drugo zavisi od centarlne banke.
 
-Devizni kurs je stvarna količina stranog novca koja može da se dobije u jednoj zemlji za domaću valutu - koliko evra za jedan dinar, odnosno koliko dinara za jedan evro. Valutni kurs je broj na osnovu kojeg se jedna valuta preračunava u drugu. I jedno i drugo zavisi od centarlne banke.
-
-Tranzicija - prelazak iz jednog društva u drugo, jedne sitaucije u drugu u nadi da će doći neki napredak. To se postiže reformama.
+**Tranzicija** je _prelazak_ iz jednog društva u drugo, jedne sitaucije u drugu u nadi da će doći neki **napredak**. To se postiže **reformama**.
 
 Mondijalizacija se može definisati kao novo društvo u smislu nekog novog društvenog sistema u smislu jedne posebne jedinice u okviru globalizacije.
 
-## Novo
+---
 
-Elektronsko poslovanje bi značilo sasvim novi poslovni proces koji se bazira na informaciono-komunikacionim tehnologijama. Pravna lica su preduzeća a fizička su pojedinci.
+## Elektronsko poslovanje
 
-Elektronsko poslovanje može se definisati kao proslovni proces koji se  obavlja korišćenjem internet tehnologija i ostalih informaciono-komunikacionih tehnologija i sistema.
+Elektronsko poslovanje je **poslovni proces** koji se obavlja korišćenjem **internet tehnologija** i ostalih **informaciono-komunikacionih** tehnologija i sistema.
 
-Najznačajnije prednosti koje pruža model umreženog globalnog elektronskog poslovanja: smanjenje troškova poslovanja, ušteda vremena, redukcija papirne dokumentacije, smanjenje obima ljudskog rada, istovremena komunikacija sa više stotina klijenata, prisupačnost i razmenljivost informacija, rast prihoda i proizvodnje ušteda u troškovima distribucije, unapređenje poslovnih procesa...
+Pravna lica su preduzeća a fizička su pojedinci.
 
-Elektronsko poslovanje uključuje sve poslovne procese u poslovanju preduzeća kao i elektrnosku trgovinu. Elektronska trgovina predstavlja takav poslovni proces koji uključuje finansijsku transakciju između kupaca i prodavaca – prodaja i kupovina koja se ostvaruje korišćenjem internet tehnologija.
+Najznačajnije **prednosti** koje pruža model umreženog globalnog elektronskog poslovanja: _smanjenje troškova_ poslovanja, _ušteda vremena_, redukcija papirne dokumentacije, smanjenje obima ljudskog rada, istovremena komunikacija sa više stotina klijenata, _prisupačnost_ i razmenljivost informacija, rast prihoda i proizvodnje ušteda u troškovima distribucije, unapređenje poslovnih procesa...
 
-Elektronsko poslovanje može da koristi državna administracija, pravna preduzeća i klijenti (konzumenti).
+Elektronsko poslovanje uključuje sve poslovne procese u poslovanju preduzeća kao i elektrnosku trgovinu. **Elektronska trgovina** predstavlja takav poslovni proces koji uključuje finansijsku transakciju između kupaca i prodavaca – _prodaja i kupovina_ koja se ostvaruje _korišćenjem internet_ tehnologija.
 
-**G2G:** jedna država donosi određene odluke i njena ministrastva komuniciraju elektonski. Vlada sa opštinama, vlada sa upravama.
+Elektronsko poslovanje može da koristi državna administracija (G), pravna preduzeća (B) i klijenti-konzumenti (C).
+
+|                | Government | Business | Client |
+| -------------- | ---------- | -------- | ------ |
+| **Government** | G2G        | G2B      | G2C    |
+| **Business**   | B2G        | B2B      | B2C    |
+| **Client**     | C2G        | C2B      | C2C    |
+
+#### Government to xxx
+
+**[G2G]** Jedna država donosi određene odluke i njena ministrastva komuniciraju elektonski. Vlada sa opštinama, vlada sa upravama.
 
 Prednosti:
-1. ušteda u vermenu
-2. ušteda papirne dokumentacije
-3. smanjuju se troškovi radne snage
-4. može da se komunicira sa više partnera istovremeno.
+- ušteda u vremenu,
+- ušteda papirne dokumentacije,
+- smanjuju se troškovi radne snage,
+- može da se komunicira sa više partnera istovremeno.
 
-Vlada se sastoji od ministarstva, ministarstvo od upravâ, a uprave od agencijâ.
+Vlada se sastoji od ministarstva, ministarstvo od uprava, a uprave od agencija.
 
-**G2B:** vlada donosi uredbe, zakone u pogledu poreza, zabrane i obaveštava privredne subjekte o nečemu. Prednosti su iste kao malopre.
+**[G2B]** Vlada donosi uredbe, zakone u pogledu poreza, zabrane i obaveštava privredne subjekte o nečemu. Prednosti su iste kao malopre. _Komunikacija vlade i pravnih lica:_ partneri vlade u zajedničkim poslovima, korisnici usluga, konkurenti.
 
-Komunikacija vlade i pravnih lica: partneri vlade u zajedničkim poslovima, krorisnici usluga, konkureni.
+**[G2C]** Obaveštenja o nečemu (poplave, katastrofe). Dolazi do izražaja smanjenje papirne dokumentacije, troškova.
 
-**G2C:** Obaveštenja o nečemu (poplave, katastrofe). Dolazi do izražaja smanjenje papirne dokumentacije, troškova.
+#### Business to xxx
 
-**B2G:** Način ostvarivanja poslovnih odnosa, recimo velike kompanije će tražiti od države pojašenjenje odluka, kako da uplate porez. Svi imaju korist.
+**[B2G]** Način ostvarivanja poslovnih odnosa, recimo velike kompanije će tražiti od države pojašenjenje odluka, kako da uplate porez. Svi imaju korist.
 
-**B2B:** Najčešća primena posmovnih komunikacija i ostvaruje se kada kompanije mogu direktno da komuniciraju jedna sa drugom u pogledu porudžbine. Ranije su firme mogle da se informišu samo preko veb-stranice.
+**[B2B]** Najčešća primena poslovnih komunikacija. Ostvaruje se kada kompanije mogu direktno da komuniciraju jedna sa drugom u pogledu porudžbine. Ranije su firme mogle da se informišu samo preko veb-stranice.
 
-> Ranije veb stranice odnosno prezentacije a sada je moguće i online naručivanje i plaćanje. Prednosti su:
+> Ranije veb stranice odnosno prezentacije a sada je moguće i onlajn naručivanje i plaćanje. Prednosti su:
 >
 > 1. efikasnija komunikacija svih učesnika u procesu
 > 2. smanjenje troškova upotrebe papira
@@ -164,44 +172,49 @@ Komunikacija vlade i pravnih lica: partneri vlade u zajedničkim poslovima, kror
 > 4. veća produktivnost zaposlenih
 > 5. skraćenje vremena trajanja procesa
 
-**B2C:** Sarađuju na poslovnom planu: biznis obaveštava konzumente o akcijama... Najbolji predstavnih je bankomat (ograničenje dnevne isplate kao zaštita).
+**[B2C]** Sarađuju na poslovnom planu: biznis obaveštava konzumente o akcijama... Najbolji predstavnih je bankomat (ograničenje dnevne isplate kao zaštita).
 
-Prednosti su: proširenje tržišta, obezbeđivanje online usluga klijentima, podsticanje impulsivne kupovine, jeftinije je otvoriti sajt nego prodavnicu (jos radi 24/7).
+Prednosti su: proširenje tržišta, obezbeđivanje online usluga klijentima, podsticanje impulsivne kupovine. Jeftinije je otvoriti sajt nego prodavnicu (još radi 24/7).
 
-**C2G:** Najčešće na opštinskom nivou, ide sporo kod nas.
+#### Client to xxx
 
-**C2B:** I klijenti mogu da zatraže nešto, ne samo preko veb-stranice, zavisi od biznisa, koliko su razvijeni.
-Pojedinci koriste internet kako bi prodali proizvode ili pružili usluge kompanijama.
+**[C2G]** Najčešće na opštinskom nivou, ide sporo kod nas.
 
-**C2C:** Složeniji sistem koji treba da se iskoristi jer je nemoguće poslovnje direktno. Moguće je preko posredika. Može biti Fejsbuk, prodavnice... (uzima takse ili objavljuje reklame ili oba). Posrednik je nekada pravno, nekada fizičko lice.
+**[C2B]** I klijenti mogu da zatraže nešto, ne samo preko veb-stranice, zavisi od biznisa, koliko su razvijeni. Pojedinci koriste internet kako bi prodali proizvode ili pružili usluge kompanijama.
 
-Suština je da je elektronsko poslovanje se ostvaruje između dva računara pobezanih na internetu. Pojavilo se osamdesetih ali je vrhunac postiglo kada se razvio internet. Elektronska trgovina - lakše je otvoriti sajt. Mobilno bankarstvo - plaćanje, primanje, dirktno sa mobilnog telefona.
-Kada se pojavio virtuelni svet (sajber-prostor je sav prostor koji se nalazi između računara povezanih na internetu) javljaju se i određeni problemi. Dva najkarakterističnija:
+**[C2C]** Složeniji sistem koji treba da se iskoristi jer je nemoguće poslovnje direktno. Moguće je preko posredika. Može biti Fejsbuk, prodavnice... (uzima takse ili objavljuje reklame ili oba). Posrednik je nekada pravno, nekada fizičko lice.
 
-1. hakerisanje - aktivnost u virtuelnim prostoru - neovlašćeni pristup tuđem računaru povezanom na internet u cilju promene, dodavanja nečega ili uništenja (vandalizam) u virtuelnom prostoru, a ta osoba koja korišćenjem informaciono-komunikacionih tehnologija nešto menja naziva se haker. Oni se udružuju.
+---
 
-2. akrivnosti samih zaposlenih. Najveće problemi prave oni na visokim pozicijama, nekada namerno a nekada i ne. Zato velike kompanije snimaju sve u cilju da se zaštite. Stvaraju probleme veb-stranama. Ti problemi dovode do velikih gubitaka, gubljenje poverenja, veliki finansijski troškovi... Utiče na poslovanje.
+Suština je da se **elektronsko poslovanje ostvaruje između dva računara povezanih na internet**. Pojavilo se osamdesetih ali je vrhunac postiglo kada se razvio internet. Elektronska trgovina - lakše je otvoriti sajt. Mobilno bankarstvo - plaćanje, primanje, dirktno sa mobilnog telefona.
 
-Posledice rizika elektronskog poslovanja:
+Kada se pojavio virtuelni svet (sajber-prostor) javljaju se i određeni **problemi**. Dva najkarakterističnija:
 
-1. direktni finansisjski gubici kao posledica prevare
-2. gubljenje vrednih i poverljivih informacija
-3. gubljenje poslova zbog nedostupnosti servisa
-4. nevlašćena upotreba resursa
-5. gubljenje poslovnog ugleda i poverenja klijenata
+- **Hakerisanje**, kao aktivnost u virtuelnim prostoru, je _neovlašćeni pristup tuđem računaru povezanom na internet_ u cilju promene, dodavanja nečega ili uništenja (vandalizam) u virtuelnom prostoru. Osoba koja korišćenjem informaciono-komunikacionih tehnologija nešto menja naziva se **haker**. Oni se udružuju.
 
-Kako da se zaštitimo od ta dva? Prvi način je tehnološki, a drugi pravni (kasnije).
+- **Aktivnosti samih zaposlenih**. Najveće problemi prave oni na visokim pozicijama, nekada namerno a nekada i ne. Zato velike kompanije snimaju sve u cilju da se zaštite. Stvaraju probleme veb-stranama. Ti problemi dovode do velikih gubitaka, gubljenje poverenja, veliki finansijski troškovi... Utiče na poslovanje.
 
-Tehnološke mere sigurnosti:
+## Posledice rizika elektronskog poslovanja
 
-1. Kriptografija je proces kriptovanja i dekriptovanja podataka.
-2. Elektronski potpisi da se izbegne poricanje. Može biti skeniranje ručnog potpisa, digitalni potpis i biometrijski potpis (koristi se dužica oka, DNK, glas, otisak).
+- direktni finansijski gubici kao posledica **prevare**
+- gubljenje vrednih i **poverljivih** informacija
+- gubljenje poslova zbog **nedostupnosti** servisa
+- **neovlašćena** upotreba resursa
+- gubljenje **poslovnog ugleda** i poverenja klijenata
 
-Elektrosnki potpis je skup podataka u elektronskom obliku koji su povezani sa elektrnoskom dokumentacijom i služe za identifikaciju korisnika. On treba da obezbedi autentikaciju i integritet podataka, poreklo poruke kao i neporecivost dokaza o datoj aktivnosti.
+Kako da se zaštitimo od ta dva? Prvi način je **tehnološki**, a drugi **pravni** (kasnije).
 
-3. Digitalni sertifikat - kartica pomoću koje dokazuje autentičnost sebe, računara i firme.
+**Tehnološke** mere sigurnosti:
 
-## Treći čas
+- **Kriptografija** je proces kriptovanja i dekriptovanja podataka.
+
+- **Elektronski potpisi** je skup podataka u elektronskom obliku koji su povezani sa elektrnoskom dokumentacijom i služe za _identifikaciju korisnika_. On treba da obezbedi _autentifikaciju i integritet podataka_, poreklo poruke kao i neporečivost dokaza o datoj aktivnosti. Služi da se izbegne poricanje. Može biti skeniranje ručnog potpisa, digitalni potpis i biometrijski potpis (koristi se dužica oka, DNK, glas, otisak).
+
+- **Digitalni sertifikat** je kartica pomoću koje dokazuje _autentičnost_ sebe, računara i firme.
+
+---
+
+# Treći čas
 
 Zemlja odredišta i zemlja porekla: gde ostvarujemo naša prava. To još uvek nije regulisano. Šta je nadležno? Sajber-pravo je skup pravnih normi i institucija i propisa koji regulišu elektronsko poslovanje (kojima se regulišu odnosi u sajber prostoru). Deo je širokog kompjuterskog poslovanja. Kako se svojine prenose na nekog, sankcije za krađu, domeni za zaštitu.
 
