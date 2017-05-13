@@ -304,10 +304,10 @@ Pa ipak **amerikanci** pokušavaju da na neki drugi nacin, ne kaju direktivu kao
 Kada komuniciraju dve osobe, to se zove elektronska pošta a ako je više ljudi zove se forum. I imamo još jednu komunikaciju i to je veb stranica. Sve su to potecijalni izvori vaše privatnosti na internetu. Kada komuniciramo elektronskom poštom, država može da kontrolište vašu elektronsku poštu, da vidi s kim komunicirate, kako komunicirate, koji su vaši cljevi ili ciljevi onga ko komunicira. I ne samo država, postoje i grupe koje su u stanju da uđu na vašu elektronsku poštu jer to nije zatvoren sistem. Možemo da kontrolišemo kako komuniciraju kinezi, amerikanci i tako dalje  zbog toga je uvedena i kriptografija, da komuniciranje bude nekako zaštićeno. Kada se komunicira u grupi na forumu, takođe postoji problem da se uđe u privatnost da se vidi šta se radi i na koji način može da se zloupotrebi. Veb-sajt je vec jasno, on otkiva osnovne podatke o sebi.
 
 >Internet komunikacija podrazumeva potpunu spremnost na maksimalnu međusobnu toleranciju i obzire, kao i odgovornost za ono što radimo. Internet konzocijum je difinsao predloge pravila ponašanja. Pored onih osnovnih ona se razlikuju u zavisnosti od oblika komnuikacije i to:
-
+>
 >- komunikacija dva korisnika - elektronska pošta
-- komunikacija više korisnika - formui i sl.
-- postavljeni sadržaji - veb stranice
+>- komunikacija više korisnika - formui i sl.
+>- postavljeni sadržaji - veb stranice
 
 Tu se stvaraju sada i novi problemi, razni **virusi** koji ugrožavaju to elektronsko poslovanje. Razni **hakeri** koji ometaju vaše poslovanje, jer vam prvo stvaraju probleme da ne možete da komunicirate ako vam nije dostupna veb stranica i onda gubite pozicije na trištu, a ako se bavite elektronskom trgovinom, onda jednostavno ne možete da radite kako treba. Dakle, ponovo su nekakve mogućnosti u kriptografiji. U poslednje vreme stvorio se niz novih mogućnosti koje treba u neku ruku urediti.
 
