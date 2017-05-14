@@ -405,3 +405,74 @@ jedno pitanje iz obblasti zaštitie: pravna, kriptografija, eektronski potpis, d
 koji su najzaslužniji ljudi za savremeno drušstvo Haver dinis maršal meklaud
 posvetite više pažnje na autorsko pravo jer ćete se vi hteli li ne susretati sa tim autoskom pravom
 na kraju pogledajte domen inž etike, moćda bude jedno pitanje
+
+# Teufikov deo
+
+1. Tipovi računarskog kriminala
+
+  1.	kompjuterska prevara
+  2.	finansijske krađe, prevare i zloupotrebe
+  3.	krađa dobara
+  4.	falsifikovanje podataka i dokumenata
+  5.	vandalizam
+  6.	sabotaža
+  7.	hakerisanje
+  8.	kompjuterska špijunaža
+  9.	krađa vremena  
+
+   .
+2. Phishing
+
+  Phishing - *pecanje personalnih podataka*. Oni šalju **imejlove** tako da izgledaju da su došli sa nekog legitimnog Web sajta kao što su eBay, PayPal, ili neke druge bankarske institucije. U imejlu se tvrdi da vaše informacije treba da se ažuriraju ili provere i traži se od vas da unesete svoje korisničko ime i lozinku, nakon što ste kliknuli na link koji se nalazi u mailu. Neki imejlovi će tražiti da unesete još više informacija, kao što su puno ime, adresa, broj telefona, broj socijalnog osiguranja ili broj kreditne kartice. Naravno, dovoljno je i samo to što ste posetili lažni websajt i uneli svoje korisničko ime i lozinku, pa da phisher može da dobije pristup do više informacija logujući se vašim nalogom.
+
+  Phishing je prevara koju čine kriminalci da bi prikupili personalne podatke od nesumnjičavih korisnika. Lažni imejlovi česo izgledaju začuđujuće legitimno, čak i Web stranice gde se od vas traži da unesete vaše informacije mogu izgledati realno. Naravno, URL adresa u adresnom polju može vam reći da li je stranica na koju ste upućeni valjana ili ne. Na primer, ako posećujete Web stranicu na eBay, **poslednji deo imena domena** bi trebalo da bude završen sa "ebay.com." Stoga su  http://www.ebay.com i http://cgi3.ebay.com valjane  Web adrese, ali http://www.ebay.validate-info.com i http://ebay.login123.com su lažne adrese, koje se možda koriste od phishera. Ako URL sadrži neku **IP adresu**, kao što je 12.30.229.107, umesto imena domena možete poprilično biti sigurni da neko pokušava da ulovi (phish) vaše lične podatke.
+
+  Ako ste primili neki imejl u kome se traži da ažurirate vaše podatke, a vi sumnjate da u njegovu valjanost, **odite** na web sajt kucajući URL u adresnom polju vašeg pretraživača umesto da kliknete na link u mailu. Na primer idite na https://www.paypal.com umesto da kliknete na link u imejlu koji izgleda da je stigao od PayPal-a. Ako se od vas zahteva da ažurirate vaše podatke nakon što ste ručno otkucali Web adresu i logovali se, tada je vaš mail možda legitiman. Ako se, međutim, od vas ne traži da ažurirate neke podatke, veoma je verovatno da je mail poslat od phishera.
+
+3. Pharming
+
+  Dok phishing uzima lične podatke od korisnika upućujući ga na lažni Web sajt, pharming  **preusmerava** korisnika na lažni Web sajt a da on toga i nije svestan.
+
+  Web sajtovi obično koriste imena domena za svoje adrese, dok je njihova stvarna lokacija određena IP adresom. Kad korisnik otkuca ime domena u svom Web pretraživaču i pritisne enter, ime domena se prevodi u neku IP adresu preko DNS servera. Web pretraživač se tada povezuje na server sa tom IP adresom i preuzima podatke sa Web strane. Nakon što korisnik poseti željeni web sajt, DNS ulaz za taj sajt se često pamti u korisnikovom računaru u DNS kešu. Na taj način, računar ne mora da pristupi DNS serveru svaki put kad korisnik želi da poseti web sajt.
+
+  Jedan od načina da se javi pharming je preko imejla zarežnog virusom koji otruje korisnički **lokalni DNS keš**. To se čini tako što se modifikuju DNS ulazi, ili host fajlovi. Na primer umesto IP adrese 17.254.3.183 koja vodi na www.apple.com, ona može biti promenjena tako da ukazuje na neki drugi websajt koji je odredio haker. Pharmersi mogu da „otruju“ i neke **DNS servere**, što znači da će bilo koji korisnik koji koristi taj server biti preusmeren na pogrešan websajt. Obično većina DNS servera ima mere zaštite kojima se štite od takvih napada. To ne znači da su oni 100% imuni, jer hakeri nastavljaju da nalaze načine da im pristupe.
+
+  Pharming može da utiče na više ljudi odjednom. To je pogotovo tačno ako je neki veliki DNS server modifikovan. Ako posetite neki sigurni veb sajt i čini vam se da se značajno razlikuje od onog što očekujete, možda ste žrtava pharminga. Restartujte vaš računar da bi ste resetovali vaše DNS ulaze, pustite neki antivirusni program, pa onda ponovo probajte povezivanje sa veb sajtom. Ako veb sajt i dalje izgleda čudno, kontaktirajte svog ISP-a (internet service provider) i recite mu da je njegov DNS server možda pharmovan.
+
+4. Definicije računarskog kriminala
+
+  1. Prva:
+    1. Računarske zloupotrebe
+    2. računarske prevare
+    3. kriminal povezan sa računarodnom
+    4. kriminal podržan računarodnom
+    5. računarski kriminal
+
+  2. Računarski kriminal predstavlja svako ilegalno, neetičko ili neautorizovano ponašanje koje uljučuje autoatsku obradu podataka ili njihov prenos.
+
+  3. Unos, izmena, brisanje i/ili prikrivanje podataka i/ili programa namerno preduzimanih da bi se:
+
+    1. izvršio ilegalni transfer fondova i drugih vrednih podataka
+    2. izvršila prevara
+    3. ometale funkcije računarkih sistema i/ili telekomunikacija
+    4. narušavanje ekskluzivnih prava vlsanika zaštićenih računarskih programa, sa namerom njihovog komercijalnog  korišćenja ili preprodaje
+    5. neovlašćen pristup do računarkog ili telekomunikacionog sistema
+    6. namerno prisluškivanje takvih sistema i narušavanje mera njihove zaštite    
+
+  4. Računarski kriminalitet je zloupotreba računara tj. svaki događaj u vezi sa upotrebom kompjuterske tehnologije u kome žrtva trpi ili bi mogla trpeti gubitak, a učinilac deluje u nameri da sebi pribavi ili bi mogao pribaviti korist. ... Vršenje krivičnih dela kod kojih se računar i kompjuterska tehnologija pojavljuju kao oruđe za činjenje oređenih dela, ili kao objekat zaštite.
+
+  5. Svaki ilegalan akt za čije je uspešno izvršavanje, istragu, gonjenje ili kažnjavanje esencijalno poznavanje komjuterske tehnologije.
+
+  6. Kompjuterski kriminal je kriminal izvršen protiv ili pomoću kompjuterskog sistema, od nekog ko u izvršenju kriminalnog dela koristi zanje kompjuterske tehnologije ili poznavanje datog sistema.
+
+  7. Pojam kompjuterskog kriminala obuhvata protivpravne povrede imovine, kod kojih se kompjuterski podaci s predumišljajem menjaju (manipulacija komjuterom), razaraju (kompjuterska sabotaža), do njih neovlašćeno dolazi i koristi (kompjuterska špijunaža) ili se koriste zajedno sa hardverom (krađa vremena).
+
+5. Zombi računar
+
+  Zombi računar je računar povezan na internet koji je zaposednut od strane hakera, računarskog virusa ili trojanca i koji služi za obavljanje zlonamernih akcija sa velike udaljenosti. Naziv zombi potiče zbog toga što vlasnici zaraženih računara nisu svesni da je sistem njihovog računara u tuđem posedovanju.
+
+  Zombi računari su preventivno korišćeni da šalju e-poštu u vidu prevare. Ovo olakšava hakerima da izbegnu hvatanje od strane zakona i smanjuje njihove troškove i pretplate jer vlasnici zombi računara imaju svoje pretplate.
+
+	Zombi računari se koriste za prevare kod advertajzinga za naplaćivanje po kliku. Drugi zombi računari mogu čak i da rade takozvano pecanje (eng. phishing) ili da nalaze sajtove koji ce im omogućiti da lako zarade na prevari (eng. money mule), takođe se koriste i za napade koji onemogućavaju servise (eng. denial-of-service attack).
+
+6. Tvoje iskustvo sa računarskim kriminalom
