@@ -377,10 +377,10 @@ U neku ruku, to se slično odvija i kod nas. Negde je poseban predmet, na nekima
 
 >Tipični moralni problemi u inženjerskom profesionalnom životu:
 >
->- društvena odogovrnost - iniženjer je dužan da u najvećoj meri utiče na obezbeđivanje društveno odgovornog načina korišćenja njegovog proizvoda
->- društveno odgvorono zapošljavanje
->- korektno obavljajne posla i briga o kvaliteltu proizvoda - pritisci tržišne konkurencije i rokova isporuke koji dovode u iskušenje da se upotrebe nestandardni materijali ili da sam finalni proizvod ne bude na pravi način i dovoljno istestiran
->- neumesni radni nalozi nadređenog - da li se odupreti šefu ili rizikovati svoj inženjerski ugled.
+>- **društvena odogovrnost** - iniženjer je dužan da u najvećoj meri utiče na obezbeđivanje društveno odgovornog načina _korišćenja_ njegovog proizvoda
+>- **društveno odgvorono zapošljavanje**
+>- korektno obavljajne posla i **briga o kvaliteltu proizvoda** - pritisci tržišne konkurencije i rokova isporuke koji dovode u iskušenje da se upotrebe nestandardni materijali ili da sam finalni proizvod ne bude na pravi način i dovoljno istestiran
+>- **neumesni radni nalozi** nadređenog - da li se odupreti šefu ili rizikovati svoj inženjerski ugled.
 
 - Čuli ste za automat kalašnjikov. Njegov autor je Mihajlo Konstantinović Kalašnihov, Rus, i on je imao ideju da napravi pušku koja će služiti za odbranu. Dakle, lagan automat koji će moći brzo da menja cevi, metke, i tako dalje. I on je u tome uspeo. Međutim, kao što vidite, pokazalo se da on nije stvorio automat za odbranu već automat za napad. Danas se kalašnjikov proizvodi širom sveta, malo je modifikovan, ali njeogva osnovna namena je za napad, da ubja ljude. Kalašnjikov je bio ubeđen da pomaže čovečanstvu, ali je ostao bez ruke.
 
