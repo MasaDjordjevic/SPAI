@@ -475,3 +475,47 @@ Zombi računari su preventivno korišćeni da šalju e-poštu u vidu prevare. Ov
 Zombi računari se koriste za prevare kod advertajzinga za naplaćivanje po kliku. Drugi zombi računari mogu čak i da rade takozvano pecanje (eng. phishing) ili da nalaze sajtove koji ce im omogućiti da lako zarade na prevari (eng. money mule), takođe se koriste i za napade koji onemogućavaju servise (eng. denial-of-service attack).
 
 ## 6. Tvoje iskustvo sa računarskim kriminalom
+
+## 7. Računarska krivična dela u krivičnom zakonu Srbije
+
+1. neovlašćeno korišćenje računara i računarske mreže u čl. 186a., 
+
+Osnovno delo se sastoji u oštećenju, prikrivanju, neovlašćenom brisanju, izmeni ili na drugi način činjenju neupotrebljivim računarskih podataka ili programa (novčana kazna ili zatvor do tri meseca).
+Teži oblik ovog krivičnog dela je ako je pričinjena šteta veća od 100.000 din (3m-3g).
+šteta u iznosu preko 600. 000 dinara (6m-5g).
+
+2. računarska sabotaža u čl. 186b., 
+
+Delo čini lice koje uništi, izbriše, izmeni, ošteti, prikrije ili na drugi način učini neupotrebljivim računarski podatak ili program ili ošteti računar ili drugi uređaj za elektronsku obradu, prenos podataka koji je od značaja za državni organ, javnu službu, ustanovu, preduzeće ili drugu organizaciju. (kazna zatvora od jedne do osam godina)
+
+3. pravljenje i unošenje računarskih virusa u čl. 186v., 
+
+Osnovno delo čini lice koje napravi računarski virus u nameri da ga unese u tuđi računar ili računarsku mrežu. Radnja izvršenja je samo sačinjavanje, pravljenje virusa (novčana kazna ili zatvor do jedne godine)
+
+Ako je napravljeni virus i unet u tuđi računar ili računarsku mrežu čime je prouzrokovana šteta (bilo imovinska ili neimovinska i to bez obzira u kom iznosu) radi se o težem obliku ovog krivičnog dela (kazna zatvora od tri meseca do tri godine)
+
+4. računarska prevara u čl. 186g., 
+
+Osnovno delo čini lice koje unese netačan podatak ili ne unese kakav važan podatak ili ko na drugi način prikrije ili lažno prikaže podatak i tako utiče na rezultat elektronske obrade ili prenosa podataka. Bitno je da je ova radnja falsifikovanja, krivotvorenja, dovođenja u zabludu oštećenog preduzeta u nameri da se sebi ili drugom pribavi protivpravna imovinska korist odnosno da se drugome nanese kakva imovinska šteta (6m-5g)
+
+Zavisno od visine pribavljene protivpravne imovinske >100k , 2-10g; >600k, 2-12g
+
+5. ometanje funkcionisanja elektronske obrade i prenosa podataka i računarske mreže u čl. 186d., 
+
+Osnovno delo se sastoji u neovlašćenom (dakle protivpravnom) pristupu (upadu) elektronskoj obradi podataka ili računarskoj mreži čime je izazvan zastoj ili poremećeno funkcionisanje elektronske obrade i prenosa podataka ili same mreže (novčana kazna ili zatvor do dve godine)
+
+Teži oblik ovog krivičnog dela za koji je propisana kazna zatvora od šest meseci do pet godina postoji ako su usled preduzete radnje izvršenja osnovnog dela nastupile teške posledice.
+
+6. neovlašćeni pristup zaštićenom računaru ili računarskoj mreži u čl. 186đ., 
+
+Osnovno delo čini lice koje kršeći mere zaštite (preventivno - tehničke i druge mere) neovlašćeno pristupi računaru ili računarskoj mreži (novčana kazna ili zatvor do jedne godine)
+
+Prvi teži oblik čini lice koje upotrebi podatak koji je pribavio, do koga je došao neovlašćenim pristupom zaštićenom računaru ili računarskoj mreži (nk ili do 3g)
+
+Ako je došlo do nastupanja teških posledica za drugog (drugo fizičko ili pravno lice) radi se o najtežem krivičnom delu ove vrste (6m-5g)
+
+7. sprečavanje i ograničavanje pristupa javnoj računarskoj mreži u čl. 186e.
+
+Osnovno delo čini lice koje neovlašćeno (dakle protivno postojećim propisima, protivzakonito) sprečava ili ometa pristup javnoj računarskoj mreži (nk ili do 1g)
+
+U slučaju da se kao učinilac javi službeno lice u vršenju službe tada se radi o kvalifikovanom obliku ovog dela za koji je propisana kazna zatvora do tri godine.
